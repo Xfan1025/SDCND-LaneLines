@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./assets/result.png
 
-[image2]: ./assets/challenge_with_noise.png
+[image2]: ./assets/challenge_with_noise.PNG
 
 
 ---
