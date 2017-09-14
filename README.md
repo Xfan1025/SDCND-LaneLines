@@ -45,7 +45,7 @@ Test on image:
 ![alt text][image1]
 
 
-The final result I got: *(click image to play)*
+The final result I got *(click image below to play):*
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wQDmzXM9tRg/0.jpg)](https://www.youtube.com/watch?v=wQDmzXM9tRg)
 
